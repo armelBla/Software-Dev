@@ -1,26 +1,26 @@
-ol {
-  margin-left: -40px;
-  margin-top: -20px;
-  list-style-position: inside;
-}
-
-p {
+#red {
   color: red;
 }
-
-.note {
-  font-size: 20px;
-}
-
-#id-selector-demo {
-  color: green;
-}
-
-li[value="4"] {
+#blue {
   color: blue;
 }
 
-* {
-  text-align: center;
+#orange {
+  color: orange;
 }
-/* Write your CSS below, don't change the rules above. */
+#green {
+  color: green;
+}
+
+#yellow {
+  color: yellow;
+}
+
+.color-title {
+  font-weight: normal;
+}
+
+img {
+  height: 200px;
+  width: 200px;
+}
